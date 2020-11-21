@@ -193,7 +193,7 @@ ul li.v4f,
 }
 
 .pages a.disabled {
-    color: #e2aab8 !important;
+    color: #C4B3BD !important;
 }
 
 .v4mid form {
@@ -216,7 +216,7 @@ input[type="submit"] {
     height: 30px !important;
     margin-top: -10px !important;
     width: 52px;
-    background-color: #e2aab8;
+    background-color: #C4B3BD;
     border: 0;
     color: #fff;
 }
@@ -268,11 +268,11 @@ ul li.v4f a,
 
 ul.lev1 li a:hover,
 .lcat .ttl {
-    color: #e2aab8;
+    color: #C4B3BD;
 }
 
 ul.lev1 li span {
-    color: #e2aab8;
+    color: #C4B3BD;
     font-size: 12px;
     font-weight: 600;
     text-decoration: none;
@@ -310,7 +310,7 @@ ul.lev2 li a {
 }
 
 ul.lev2 li a:hover {
-    color: #e2aab8;
+    color: #C4B3BD;
     display: block;
     font-size: 12px;
     font-weight: normal;
@@ -322,7 +322,7 @@ ul.lev2 li a:hover {
 }
 
 ul.lev2 li span {
-    color: #e2aab8;
+    color: #C4B3BD;
     display: block;
     font-size: 12px;
     font-weight: bold;
@@ -413,7 +413,7 @@ ul.lev2 li span {
 }
 
 table.v4clp li span {
-    color: #e2aab8 !important;
+    color: #C4B3BD !important;
     text-transform: capitalize;
 }
 
@@ -431,12 +431,12 @@ table.v4clp li span {
 }
 
 .fpcc .countClass {
-    color: #e2aab8;
+    color: #C4B3BD;
 }
 
 .v4f a:hover,
 .oc ul li a:hover {
-    color: #e2aab8 !important;
+    color: #C4B3BD !important;
 }
 
 #CentralArea {
@@ -830,7 +830,7 @@ table.gallery table.fixed {
     position: absolute;
     text-transform: capitalize;
     font-weight: bold;
-    background-color: #e2aab8;
+    background-color: #C4B3BD;
     color: #fff;
     padding: 0 10px;
     border-radius: 5px;
@@ -864,7 +864,7 @@ table.gallery table.fixed {
     position: absolute;
     text-transform: capitalize;
     font-weight: bold;
-    background-color: #e2aab8;
+    background-color: #C4B3BD;
     color: #fff;
     padding: 0 10px;
     border-radius: 5px;
