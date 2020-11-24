@@ -200,7 +200,7 @@ a:hover {
     box-sizing: border-box;
     display: inline-block;
     font-size: initial;
-    height: 100%;
+    /*height: 100%;*/
     line-height: normal;
     overflow: hidden;
     position: relative;
