@@ -48,6 +48,9 @@ a:hover {
 
 /* Header Area */
 
+.tem-hdr {
+	background-color: #000;
+}
 .hdr-logo a {
 	display: inline-block;
 }
@@ -69,7 +72,7 @@ a:hover {
 	transition: all 0.5s ease;
 }
 .hdr-nav ul li a:hover {
-	background-color: #C4B3BD;
+	background-color: #F49CB9;
 	color: #fff;
 }
 
@@ -95,12 +98,12 @@ a:hover {
 }
 .single-promo i {
 	font-size: 30px;
-	color: #C4B3BD;
+	color: #F49CB9;
 	margin-right: 7px;
 	vertical-align: middle;
 }
 .single-promo-top {
-	background-color: #C4B3BD;
+	background-color: #F49CB9;
 	text-align: center;
 	padding: 8px 10px;
 	color: #2D2E2F;
@@ -128,7 +131,7 @@ a:hover {
 }
 .pro-title {
 	margin: 30px 0;
-	background-color: #C4B3BD;
+	background-color: #F49CB9;
 	padding: 15px 30px;
 	border-radius: 5px;
 	font-size: 26px;
@@ -455,7 +458,7 @@ a:hover {
 .pro-desc-con ul i,
 .pro-desc-con ol i {
 	margin-right: 5px;
-	color: #C4B3BD;
+	color: #F49CB9;
 }
 .pro-desc-con table,
 .pro-desc-con ul,
@@ -501,7 +504,7 @@ a:hover {
 }
 .main-tab input:checked + label {
     border-bottom: 1px solid #fff;
-    background-color: #C4B3BD;
+    background-color: #F49CB9;
     color: #fff;
 }
 .main-tab #tab1:checked ~ #content1,
@@ -522,7 +525,7 @@ a:hover {
 .main-tab section ul i,
 .main-tab section ol i {
 	margin-right: 5px;
-	color: #C4B3BD;
+	color: #F49CB9;
 }
 
 .main-tab section table,
