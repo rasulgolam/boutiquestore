@@ -89,13 +89,13 @@ a:hover {
 /* Promo */
 
 .promo-area {
-	padding-bottom: 40px;
 	background-color: #000;
 }
 .promo-area-inr {
 	background-color: #fff;
 	padding-left: 10px;
 	padding-right: 10px;
+	padding-bottom: 40px;
 }
 .single-promo {
 	border: 1px solid #d1d1d1;
@@ -567,7 +567,7 @@ a:hover {
 	padding: 30px 0 0;
 }
 .copy-txt img {
-	height: 100px;
+	height: 70px;
 }
 
 /* LG Device :992px. */
