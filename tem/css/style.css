@@ -51,6 +51,9 @@ a:hover {
 .tem-hdr {
 	background-color: #000;
 }
+.tem-hdr-inr {
+	background-color: #fff;
+}
 .hdr-logo a {
 	display: inline-block;
 }
