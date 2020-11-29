@@ -90,6 +90,9 @@ a:hover {
 	padding-bottom: 40px;
 	background-color: #000;
 }
+.promo-area-inr {
+	background-color: #fff;
+}
 .single-promo {
 	border: 1px solid #d1d1d1;
 	border-left: 0;
