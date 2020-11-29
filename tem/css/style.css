@@ -53,6 +53,8 @@ a:hover {
 }
 .tem-hdr-inr {
 	background-color: #fff;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 .hdr-logo a {
 	display: inline-block;
@@ -92,6 +94,8 @@ a:hover {
 }
 .promo-area-inr {
 	background-color: #fff;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 .single-promo {
 	border: 1px solid #d1d1d1;
