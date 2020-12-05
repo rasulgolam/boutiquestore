@@ -193,7 +193,7 @@ ul li.v4f,
 }
 
 .pages a.disabled {
-    color: #C4B3BD !important;
+    color: #F49CB9 !important;
 }
 
 .v4mid form {
@@ -216,7 +216,7 @@ input[type="submit"] {
     height: 30px !important;
     margin-top: -10px !important;
     width: 52px;
-    background-color: #C4B3BD;
+    background-color: #F49CB9;
     border: 0;
     color: #fff;
 }
@@ -268,11 +268,11 @@ ul li.v4f a,
 
 ul.lev1 li a:hover,
 .lcat .ttl {
-    color: #C4B3BD;
+    color: #F49CB9;
 }
 
 ul.lev1 li span {
-    color: #C4B3BD;
+    color: #F49CB9;
     font-size: 12px;
     font-weight: 600;
     text-decoration: none;
@@ -310,7 +310,7 @@ ul.lev2 li a {
 }
 
 ul.lev2 li a:hover {
-    color: #C4B3BD;
+    color: #F49CB9;
     display: block;
     font-size: 12px;
     font-weight: normal;
@@ -322,7 +322,7 @@ ul.lev2 li a:hover {
 }
 
 ul.lev2 li span {
-    color: #C4B3BD;
+    color: #F49CB9;
     display: block;
     font-size: 12px;
     font-weight: bold;
@@ -413,7 +413,7 @@ ul.lev2 li span {
 }
 
 table.v4clp li span {
-    color: #C4B3BD !important;
+    color: #F49CB9 !important;
     text-transform: capitalize;
 }
 
@@ -431,12 +431,12 @@ table.v4clp li span {
 }
 
 .fpcc .countClass {
-    color: #C4B3BD;
+    color: #F49CB9;
 }
 
 .v4f a:hover,
 .oc ul li a:hover {
-    color: #C4B3BD !important;
+    color: #F49CB9 !important;
 }
 
 #CentralArea {
@@ -830,7 +830,7 @@ table.gallery table.fixed {
     position: absolute;
     text-transform: capitalize;
     font-weight: bold;
-    background-color: #C4B3BD;
+    background-color: #F49CB9;
     color: #fff;
     padding: 0 10px;
     border-radius: 5px;
@@ -864,7 +864,7 @@ table.gallery table.fixed {
     position: absolute;
     text-transform: capitalize;
     font-weight: bold;
-    background-color: #C4B3BD;
+    background-color: #F49CB9;
     color: #fff;
     padding: 0 10px;
     border-radius: 5px;
@@ -1068,7 +1068,7 @@ h4.ftr-widget-title {
 .newsletter-widget a {
     display: inline-block;
     background-color: #000;
-    color: #fff;
+    color: #fff !important;
     padding: 10px 35px;
     text-transform: uppercase;
     font-size: 16px;
